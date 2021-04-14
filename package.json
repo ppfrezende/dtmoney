@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "miragejs": "^0.1.41",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -28,12 +27,6 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "rules": {
-      "arrow-parens": [
-        "error",
-        "as-needed"
-      ]
-    },
     "extends": [
       "react-app",
       "react-app/jest"
